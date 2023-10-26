@@ -1,0 +1,10 @@
+= Конфиг для tomcat 9 в docker
+
+== Стэк
+- Docker
+- Tomcat 9 alphine
+
+== Инструкция
+
+- в файле tomcat-users меняем если нужно username и password
+- запускаем
