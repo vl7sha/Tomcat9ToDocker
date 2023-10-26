@@ -2,7 +2,7 @@
 
 == Стэк
 - Docker
-- Tomcat 9 alphine
+- Tomcat 9 alpine
 
 == Инструкция
 
